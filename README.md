@@ -1,4 +1,4 @@
-<details><summary><b>Show Detailed Table:</b></summary>
+
 <ul>
     <li><a href="#add-ons-">🔮Add-ons</a>
         <ul>
@@ -88,4 +88,4 @@
     <li><a href="#symbols-">Symbols</a></li>
     <li><a href="#contributing-">Contributing</a></li>
 </ul>
-</details>
+
